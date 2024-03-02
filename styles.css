@@ -1,0 +1,35 @@
+/* Custom styles */
+.container-box {
+    background-color: #ffffff;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  /* Style for edit and delete buttons */
+  .btn-edit,
+  .btn-delete {
+    margin-right: 5px; /* Add margin between the buttons */
+    font-size: 14px; /* Adjust font size */
+  }
+  
+  .btn-edit {
+    background-color: #007bff; /* Change background color for edit button */
+    border-color: #007bff; /* Change border color for edit button */
+  }
+  
+  .btn-edit:hover {
+    background-color: #0056b3; /* Change background color for edit button on hover */
+    border-color: #0056b3; /* Change border color for edit button on hover */
+  }
+  
+  .btn-delete {
+    background-color: #dc3545; /* Change background color for delete button */
+    border-color: #dc3545; /* Change border color for delete button */
+  }
+  
+  .btn-delete:hover {
+    background-color: #c82333; /* Change background color for delete button on hover */
+    border-color: #c82333; /* Change border color for delete button on hover */
+  }
+  
